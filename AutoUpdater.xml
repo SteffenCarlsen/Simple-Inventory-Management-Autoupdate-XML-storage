@@ -2,6 +2,5 @@
 <item>
     <version>1.2.0.0</version>
     <url>https://github.com/SteffenCarlsen/Simple-Inventory-Management/releases/download/1.1/Simple.Inventory.Manager.v1.1.zip</url>
-    <changelog>https://github.com/SteffenCarlsen/Simple-Inventory-Management/releases</changelog>
     <mandatory>false</mandatory>
 </item>
